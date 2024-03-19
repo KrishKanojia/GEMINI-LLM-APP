@@ -1,3 +1,4 @@
 gemini-env/
 .env
 data/
+faiss_index/
